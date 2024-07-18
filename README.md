@@ -1,4 +1,4 @@
-# ProjetodeParceria
+# Projeto de Parceria
 ### Introdução
 
 O projeto surge da seguinte afirmação: "Encontrar uma problemática da vida real que possa ser solucionada através de análise de dados e machine learning. A ideia do projeto é explanar e justificar a relevância do uso de dados para descobrir a solução."
